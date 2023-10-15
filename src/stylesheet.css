@@ -1,0 +1,31 @@
+button{
+    height: 60px;
+    width: 60px;
+    background-color: darkblue;
+    border: 1px solid darkblue;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+.result{
+    /* text-align: center; */
+    background-color: darkgoldenrod;
+    color: white;
+    font-size: 16px;
+    width: 240px;
+}
+span{
+    margin-left: 20px;
+}
+input{
+    width: 97.5%;
+    height: 30px;
+    border: 1px solid darkmagenta;
+    background-color:darkmagenta;
+    color: white;
+    font-size: 16px;
+}
+.main{
+    width: 240px;
+    margin-left: 50px;
+}
